@@ -1,0 +1,24 @@
+{
+  "segments": [
+    {
+      "mode": "OFF",
+      "start": 0.0,
+      "end": 0.32099999999999795
+    },
+    {
+      "mode": "PREHEATING",
+      "start": 0.321,
+      "end": 14.113999999999997
+    },
+    {
+      "mode": "HEATING",
+      "start": 14.114,
+      "end": 19.889
+    },
+    {
+      "mode": "HIGH",
+      "start": 19.888,
+      "end": 733.57
+    }
+  ]
+}
